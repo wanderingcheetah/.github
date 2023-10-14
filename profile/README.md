@@ -1,1 +1,2 @@
-## Welcome, there's not much to see here yet
+# Wandering Cheetah
+Super secret projects for now
